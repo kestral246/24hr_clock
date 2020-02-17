@@ -5,9 +5,11 @@ A 24hr clock with one hand.
 
 David_G (kestral246@gmail.com)
 
+![Family Screenshot](screenshot.png "All my compass and clock mods")
+
+Shown are all my compass and clock mods.
 
 *Based on my hud_compass mod, which provides both a compass and a 24hr clock that can be optionally enabled and placed in any of the four corners of the player's screen.*
-
 
 Crafting guide
 --------------
